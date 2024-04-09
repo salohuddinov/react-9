@@ -1,0 +1,146 @@
+.hero img {
+    display: inline;
+    width: 1520px;
+    height: 750px;
+}
+
+.hero__content {
+    margin-top: -600px;
+}
+
+.hero__content h1 {
+    width: 920px;
+    height: 180px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 15px 0;
+}
+
+.time {
+    display: flex;
+    gap: 25px;
+}
+
+.time__card {
+    width: 102px;
+    height: 112px;
+    background: rgb(18, 18, 18);
+}
+
+.time__card h3 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.time__card h6 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+    /* white */
+    opacity: 0.4;
+}
+
+.hero__bgra {
+    width: 100%;
+    height: 130px;
+    margin-top: 270px;
+    background: rgb(18, 18, 18);
+}
+
+.hero__bottm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(18, 18, 18);
+    padding: 36px 0;
+}
+
+.hero button {
+    width: 169px;
+    height: 44px;
+    border-radius: 50px;
+    background: linear-gradient(140.99deg, rgb(223, 89, 80) 11.194%, rgb(69, 16, 70) 93.72%);
+}
+
+.host {
+    display: flex;
+    gap: 20px;
+}
+
+.host h2 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+    /* white */
+    opacity: 0.4;
+}
+
+.host h3 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.lengh {
+    display: flex;
+    width: 614px;
+    height: 6px;
+    background: #fff;
+    margin: 10px 0;
+}
+
+.bgcolor {
+    width: 440px;
+    height: 6px;
+    background: linear-gradient(140.99deg, rgb(223, 89, 80) 12.127%, rgb(69, 16, 70) 93.197%);
+}
+
+.hero__bottm__title {
+    display: flex;
+    gap: 20px;
+}
+
+.text h2 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+    /* white */
+    opacity: 0.4;
+}
+
+.hero__bottm__nom h2 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+}
