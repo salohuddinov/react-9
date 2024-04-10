@@ -1,0 +1,51 @@
+.main {
+    margin-top: 105px;
+}
+
+.main h2 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+
+
+.main__card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main__cards img {
+    padding: 30px 0;
+    padding-left: 155px;
+}
+
+.main__cards h3 {
+    width: 416px;
+    height: 68px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.main__card p {
+    width: 358px;
+    height: 104px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+}

@@ -1,0 +1,70 @@
+.footer {
+    width: 547px;
+    height: 419px;
+}
+
+.footer h2 {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.footer p {
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 20px;
+    margin-top: 45px;
+}
+
+.footer__from {
+    display: flex;
+    width: 492px;
+    height: 44px;
+    margin-top: 55px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__from input {
+    width: 353px;
+    height: 44px;
+    border-radius: 50px 0px 0px 50px;
+    background: rgb(255, 255, 255);
+    opacity: 0.25;
+    padding-left: 25px;
+}
+
+.footer__from button {
+    width: 160px;
+    height: 44px;
+    border-radius: 50px;
+    margin-left: -55px;
+    z-index: 100;
+    background: linear-gradient(140.99deg, rgb(223, 89, 80) 11.095%, rgb(69, 16, 70) 93.776%);
+}
+
+.footer__icon {
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.footer__icon button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(141.34deg, rgb(200, 154, 252) 4.52%, rgb(124, 106, 250) 95.358%);
+}
